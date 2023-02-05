@@ -1,3 +1,5 @@
-Hi I am making merge conflict.
+Hi I am making merge conflict and learning it.
+Hi developming feature in dev.
 Hi working in branch main.
+Hi work on development.
 
